@@ -4,7 +4,14 @@ Tableau Dashboard for Amazon sales analysis (2019-2024)
 
 ## Project Overview
 
-This repository contains a complete *Tableau Dashboard* designed for monitoring and analyzing the sales performance of a fictional Amazon-style company over the period 2019-2024. The Dashboard focuses on key performance indicators (KPIs) and sales trends.
+This repository contains a complete *Tableau Dashboard* designed for monitoring and analyzing the sales performance of Amazon company over the period 2019-2024. The Dashboard focuses on key performance indicators (KPIs) and sales trends.
+
+##Data Source 
+The data used for this analysis was sourced from Kaggle:
+
+Dataset Link: [Amazon Sales Dataset for Performance Analysis](https://www.kaggle.com/datasets/rahuljangir78/amazon-sales-dataset-for-performance-analysis)
+
+
 
 ## Key Charts & Insights
 
